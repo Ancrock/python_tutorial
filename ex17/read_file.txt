@@ -1,0 +1,2 @@
+This is the file from where the stuff is going to be read. 
+Mary had a little lamb. Her feet were white as snow.
