@@ -1,0 +1,4 @@
+This is a text file.
+This is for the demo of basic functions in python:::::
+from the book===>
+_______________________Learn python the hard way_______________________
